@@ -26,7 +26,7 @@ const Header = () => {
                 to="/hire"
                 className="mr-5 bg-gray-300 text-gray-500 p-1 px-4 rounded-full font-semibold transition-all hover:bg-gray-500 hover:text-white"
               >
-                Hire
+                Świadectwo
               </Link>
             </li>
           </ul>

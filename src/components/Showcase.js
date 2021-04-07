@@ -17,7 +17,7 @@ const Showcase = () => {
               czeka na Ciebie!
             </Link>
             <Link
-              to="/project"
+              to="/projects"
               className="mr-5 bg-white text-gray-400 p-2 px-4 rounded-full font-semibold transition-all hover:bg-gray-400 hover:text-white"
             >
               przyjdź!
